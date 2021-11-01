@@ -1,0 +1,86 @@
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\obj\Debug\netcoreapp2.1\CsvImport.Host.csprojAssemblyReference.cache
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\obj\Debug\netcoreapp2.1\CsvImport.Host.csproj.CoreCompileInputs.cache
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\obj\Debug\netcoreapp2.1\CsvImport.Host.RazorAssemblyInfo.cache
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\obj\Debug\netcoreapp2.1\CsvImport.Host.RazorAssemblyInfo.cs
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\obj\Debug\netcoreapp2.1\CsvImport.Host.AssemblyInfoInputs.cache
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\obj\Debug\netcoreapp2.1\CsvImport.Host.AssemblyInfo.cs
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.Host.deps.json
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.Host.runtimeconfig.json
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.Host.runtimeconfig.dev.json
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.Host.dll
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.Host.pdb
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.Host.Views.dll
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.Host.Views.pdb
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.Abstractions.dll
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.Core.dll
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.EntityFramework.dll
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.Product.Abstractions.dll
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.Product.dll
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.Product.EntityFramework.dll
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.Core.pdb
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.Product.EntityFramework.pdb
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.Product.pdb
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.Abstractions.pdb
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.EntityFramework.pdb
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.Product.Abstractions.pdb
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\obj\Debug\netcoreapp2.1\CsvImport.Host.TagHelpers.input.cache
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\obj\Debug\netcoreapp2.1\CsvImport.Host.TagHelpers.output.cache
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\obj\Debug\netcoreapp2.1\CsvImport.Host.RazorCoreGenerate.cache
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\obj\Debug\netcoreapp2.1\Razor\Views\Product\Results.g.cshtml.cs
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\obj\Debug\netcoreapp2.1\Razor\Views\Product\Save.g.cshtml.cs
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\obj\Debug\netcoreapp2.1\CsvImport.Host.RazorTargetAssemblyInfo.cache
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\obj\Debug\netcoreapp2.1\CsvImport.Host.RazorTargetAssemblyInfo.cs
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\obj\Debug\netcoreapp2.1\CsvImport.Host.Views.pdb
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\obj\Debug\netcoreapp2.1\CsvImport.Host.csproj.CopyComplete
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\obj\Debug\netcoreapp2.1\CsvImport.Host.dll
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Host\obj\Debug\netcoreapp2.1\CsvImport.Host.pdb
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.Host.deps.json
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.Host.runtimeconfig.json
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.Host.runtimeconfig.dev.json
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.Host.dll
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.Host.pdb
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.Host.Views.dll
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.Host.Views.pdb
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.Abstractions.dll
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.Core.dll
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.EntityFramework.dll
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.Product.Abstractions.dll
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.Product.dll
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.Product.EntityFramework.dll
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.Core.pdb
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.Product.EntityFramework.pdb
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.Product.pdb
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.Abstractions.pdb
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.EntityFramework.pdb
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\bin\Debug\netcoreapp2.1\CsvImport.Product.Abstractions.pdb
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\obj\Debug\netcoreapp2.1\CsvImport.Host.csprojAssemblyReference.cache
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\obj\Debug\netcoreapp2.1\CsvImport.Host.csproj.CoreCompileInputs.cache
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\obj\Debug\netcoreapp2.1\CsvImport.Host.RazorAssemblyInfo.cache
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\obj\Debug\netcoreapp2.1\CsvImport.Host.RazorAssemblyInfo.cs
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\obj\Debug\netcoreapp2.1\CsvImport.Host.AssemblyInfoInputs.cache
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\obj\Debug\netcoreapp2.1\CsvImport.Host.AssemblyInfo.cs
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\obj\Debug\netcoreapp2.1\CsvImport.Host.TagHelpers.input.cache
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\obj\Debug\netcoreapp2.1\CsvImport.Host.TagHelpers.output.cache
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\obj\Debug\netcoreapp2.1\CsvImport.Host.RazorCoreGenerate.cache
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\obj\Debug\netcoreapp2.1\Razor\Views\Product\Results.g.cshtml.cs
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\obj\Debug\netcoreapp2.1\Razor\Views\Product\Save.g.cshtml.cs
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\obj\Debug\netcoreapp2.1\CsvImport.Host.RazorTargetAssemblyInfo.cache
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\obj\Debug\netcoreapp2.1\CsvImport.Host.RazorTargetAssemblyInfo.cs
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\obj\Debug\netcoreapp2.1\CsvImport.Host.Views.pdb
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\obj\Debug\netcoreapp2.1\CsvImport.Host.csproj.CopyComplete
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\obj\Debug\netcoreapp2.1\CsvImport.Host.dll
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Host\obj\Debug\netcoreapp2.1\CsvImport.Host.pdb

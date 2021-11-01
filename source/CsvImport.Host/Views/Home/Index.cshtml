@@ -1,0 +1,64 @@
+﻿<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title></title>
+</head>
+
+<body class="main">
+    <div class="widgets">
+        <table>
+            <tr>
+                <td>
+                    <section class="widget">
+                        <div class="widget-body">
+                            <h2>Upload Excel File</h2>
+ 
+                            <form method="post" enctype="multipart/form-data" asp-controller="Product" asp-action="UploadCsv">
+                                <div class="form-group">
+ 
+                                    <div class="col-md-12">
+                                        <input type="file" name="file" />
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <div class="col-md-12">
+                                        <input type="submit" value="Start" />
+                                    </div>
+                                </div>
+                            </form>
+                            <p>&nbsp;</p>
+
+                        </div>
+                    </section>
+                </td>
+                <td>
+                    <header>File Header Context</header>
+                    </td>
+                </tr>
+            <tr>
+                <td>
+                <th>Key</th></td>
+                <td>
+                <th>Article code</th></td>
+                <td>
+                <th>Color code</th></td>
+                <td>
+                <th>Description</th></td>
+                <td>
+                <th>Price</th></td>
+                <td>
+                <th>Discount Price</th></td>
+                <td>
+                <th>Delivered in</th></td>
+                <td>
+                <th>Q1</th></td>
+                <td>
+                <th>Size</th></td>
+                <td>
+                <th>Color</th></td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = CsvImport.Host
+build_property.ProjectDir = c:\Users\osman.turan\Downloads\csvimport\source\CsvImport.Host\

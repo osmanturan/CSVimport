@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewData["Title"] = "Save";
+    CsvImportSummaryModel csvImportSummaryModel = ViewBag.Summary;
+}
+
+<h2>Save Result</h2>
+<p>Records created: @csvImportSummaryModel.CreateRecordCount</p>
+<p style="color:darkslategrey">Records updated: @csvImportSummaryModel.UpdateRecordCount</p>
+<p style="color:red">Records deleted: @csvImportSummaryModel.DeleteRecordCount</p>
+

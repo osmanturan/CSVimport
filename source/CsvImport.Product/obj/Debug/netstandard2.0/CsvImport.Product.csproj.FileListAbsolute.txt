@@ -1,0 +1,28 @@
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Product\obj\Debug\netstandard2.0\CsvImport.Product.csprojAssemblyReference.cache
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Product\obj\Debug\netstandard2.0\CsvImport.Product.csproj.CoreCompileInputs.cache
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Product\obj\Debug\netstandard2.0\CsvImport.Product.AssemblyInfoInputs.cache
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Product\obj\Debug\netstandard2.0\CsvImport.Product.AssemblyInfo.cs
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Product\bin\Debug\netstandard2.0\CsvImport.Product.deps.json
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Product\bin\Debug\netstandard2.0\CsvImport.Product.dll
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Product\bin\Debug\netstandard2.0\CsvImport.Product.pdb
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Product\bin\Debug\netstandard2.0\CsvImport.Abstractions.dll
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Product\bin\Debug\netstandard2.0\CsvImport.Product.Abstractions.dll
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Product\bin\Debug\netstandard2.0\CsvImport.Product.Abstractions.pdb
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Product\bin\Debug\netstandard2.0\CsvImport.Abstractions.pdb
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Product\obj\Debug\netstandard2.0\CsvImport.Product.csproj.CopyComplete
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Product\obj\Debug\netstandard2.0\CsvImport.Product.dll
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Product\obj\Debug\netstandard2.0\CsvImport.Product.pdb
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Product\bin\Debug\netstandard2.0\CsvImport.Product.deps.json
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Product\bin\Debug\netstandard2.0\CsvImport.Product.dll
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Product\bin\Debug\netstandard2.0\CsvImport.Product.pdb
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Product\bin\Debug\netstandard2.0\CsvImport.Abstractions.dll
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Product\bin\Debug\netstandard2.0\CsvImport.Product.Abstractions.dll
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Product\bin\Debug\netstandard2.0\CsvImport.Product.Abstractions.pdb
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Product\bin\Debug\netstandard2.0\CsvImport.Abstractions.pdb
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Product\obj\Debug\netstandard2.0\CsvImport.Product.csprojAssemblyReference.cache
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Product\obj\Debug\netstandard2.0\CsvImport.Product.csproj.CoreCompileInputs.cache
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Product\obj\Debug\netstandard2.0\CsvImport.Product.AssemblyInfoInputs.cache
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Product\obj\Debug\netstandard2.0\CsvImport.Product.AssemblyInfo.cs
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Product\obj\Debug\netstandard2.0\CsvImport.Product.csproj.CopyComplete
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Product\obj\Debug\netstandard2.0\CsvImport.Product.dll
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Product\obj\Debug\netstandard2.0\CsvImport.Product.pdb

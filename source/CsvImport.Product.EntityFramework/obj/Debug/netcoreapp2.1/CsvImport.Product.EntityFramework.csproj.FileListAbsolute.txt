@@ -1,0 +1,36 @@
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Product.EntityFramework\obj\Debug\netcoreapp2.1\CsvImport.Product.EntityFramework.csprojAssemblyReference.cache
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Product.EntityFramework\obj\Debug\netcoreapp2.1\CsvImport.Product.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Product.EntityFramework\obj\Debug\netcoreapp2.1\CsvImport.Product.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Product.EntityFramework\obj\Debug\netcoreapp2.1\CsvImport.Product.EntityFramework.AssemblyInfo.cs
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Product.EntityFramework\bin\Debug\netcoreapp2.1\CsvImport.Product.EntityFramework.deps.json
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Product.EntityFramework\bin\Debug\netcoreapp2.1\CsvImport.Product.EntityFramework.runtimeconfig.json
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Product.EntityFramework\bin\Debug\netcoreapp2.1\CsvImport.Product.EntityFramework.runtimeconfig.dev.json
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Product.EntityFramework\bin\Debug\netcoreapp2.1\CsvImport.Product.EntityFramework.dll
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Product.EntityFramework\bin\Debug\netcoreapp2.1\CsvImport.Product.EntityFramework.pdb
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Product.EntityFramework\bin\Debug\netcoreapp2.1\CsvImport.Abstractions.dll
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Product.EntityFramework\bin\Debug\netcoreapp2.1\CsvImport.EntityFramework.dll
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Product.EntityFramework\bin\Debug\netcoreapp2.1\CsvImport.Product.Abstractions.dll
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Product.EntityFramework\bin\Debug\netcoreapp2.1\CsvImport.EntityFramework.pdb
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Product.EntityFramework\bin\Debug\netcoreapp2.1\CsvImport.Product.Abstractions.pdb
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Product.EntityFramework\bin\Debug\netcoreapp2.1\CsvImport.Abstractions.pdb
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Product.EntityFramework\obj\Debug\netcoreapp2.1\CsvImport.Product.EntityFramework.csproj.CopyComplete
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Product.EntityFramework\obj\Debug\netcoreapp2.1\CsvImport.Product.EntityFramework.dll
+C:\Users\osman.turan\Desktop\csvimport-master\src\CsvImport.Product.EntityFramework\obj\Debug\netcoreapp2.1\CsvImport.Product.EntityFramework.pdb
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Product.EntityFramework\bin\Debug\netcoreapp2.1\CsvImport.Product.EntityFramework.deps.json
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Product.EntityFramework\bin\Debug\netcoreapp2.1\CsvImport.Product.EntityFramework.runtimeconfig.json
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Product.EntityFramework\bin\Debug\netcoreapp2.1\CsvImport.Product.EntityFramework.runtimeconfig.dev.json
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Product.EntityFramework\bin\Debug\netcoreapp2.1\CsvImport.Product.EntityFramework.dll
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Product.EntityFramework\bin\Debug\netcoreapp2.1\CsvImport.Product.EntityFramework.pdb
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Product.EntityFramework\bin\Debug\netcoreapp2.1\CsvImport.Abstractions.dll
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Product.EntityFramework\bin\Debug\netcoreapp2.1\CsvImport.EntityFramework.dll
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Product.EntityFramework\bin\Debug\netcoreapp2.1\CsvImport.Product.Abstractions.dll
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Product.EntityFramework\bin\Debug\netcoreapp2.1\CsvImport.EntityFramework.pdb
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Product.EntityFramework\bin\Debug\netcoreapp2.1\CsvImport.Product.Abstractions.pdb
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Product.EntityFramework\bin\Debug\netcoreapp2.1\CsvImport.Abstractions.pdb
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Product.EntityFramework\obj\Debug\netcoreapp2.1\CsvImport.Product.EntityFramework.csprojAssemblyReference.cache
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Product.EntityFramework\obj\Debug\netcoreapp2.1\CsvImport.Product.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Product.EntityFramework\obj\Debug\netcoreapp2.1\CsvImport.Product.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Product.EntityFramework\obj\Debug\netcoreapp2.1\CsvImport.Product.EntityFramework.AssemblyInfo.cs
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Product.EntityFramework\obj\Debug\netcoreapp2.1\CsvImport.Product.EntityFramework.csproj.CopyComplete
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Product.EntityFramework\obj\Debug\netcoreapp2.1\CsvImport.Product.EntityFramework.dll
+C:\Users\deter\Desktop\excel import\csvimport-master\source\CsvImport.Product.EntityFramework\obj\Debug\netcoreapp2.1\CsvImport.Product.EntityFramework.pdb

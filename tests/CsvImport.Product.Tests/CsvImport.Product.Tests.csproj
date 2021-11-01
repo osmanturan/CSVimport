@@ -1,0 +1,40 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+
+    <RootNamespace>CsvImport.Product</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="TestCsvFiles\invalid1.csv" />
+    <None Remove="TestCsvFiles\invalid2.csv" />
+    <None Remove="TestCsvFiles\notacsv.jpg" />
+    <None Remove="TestCsvFiles\valid.csv" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="TestCsvFiles\invalid1.csv" />
+    <EmbeddedResource Include="TestCsvFiles\invalid2.csv" />
+    <EmbeddedResource Include="TestCsvFiles\notacsv.jpg" />
+    <EmbeddedResource Include="TestCsvFiles\valid.csv" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.8.0" />
+    <PackageReference Include="Moq" Version="4.10.0" />
+    <PackageReference Include="xunit" Version="2.3.1" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\CsvImport.Core\CsvImport.Core.csproj" />
+    <ProjectReference Include="..\..\src\CsvImport.Product.EntityFramework\CsvImport.Product.EntityFramework.csproj" />
+    <ProjectReference Include="..\..\src\CsvImport.Product\CsvImport.Product.csproj" />
+  </ItemGroup>
+
+</Project>
+
+

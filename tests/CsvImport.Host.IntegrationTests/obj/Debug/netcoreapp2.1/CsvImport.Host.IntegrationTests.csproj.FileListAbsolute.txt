@@ -1,0 +1,28 @@
+C:\Users\osman.turan\Desktop\csvimport-master\tests\CsvImport.Host.IntegrationTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\osman.turan\Desktop\csvimport-master\tests\CsvImport.Host.IntegrationTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\osman.turan\Desktop\csvimport-master\tests\CsvImport.Host.IntegrationTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\osman.turan\Desktop\csvimport-master\tests\CsvImport.Host.IntegrationTests\bin\Debug\netcoreapp2.1\CsvImport.Host.IntegrationTests.deps.json
+C:\Users\osman.turan\Desktop\csvimport-master\tests\CsvImport.Host.IntegrationTests\bin\Debug\netcoreapp2.1\CsvImport.Host.IntegrationTests.runtimeconfig.json
+C:\Users\osman.turan\Desktop\csvimport-master\tests\CsvImport.Host.IntegrationTests\bin\Debug\netcoreapp2.1\CsvImport.Host.IntegrationTests.runtimeconfig.dev.json
+C:\Users\osman.turan\Desktop\csvimport-master\tests\CsvImport.Host.IntegrationTests\bin\Debug\netcoreapp2.1\CsvImport.Host.IntegrationTests.dll
+C:\Users\osman.turan\Desktop\csvimport-master\tests\CsvImport.Host.IntegrationTests\bin\Debug\netcoreapp2.1\CsvImport.Host.IntegrationTests.pdb
+C:\Users\osman.turan\Desktop\csvimport-master\tests\CsvImport.Host.IntegrationTests\obj\Debug\netcoreapp2.1\CsvImport.Host.IntegrationTests.csprojAssemblyReference.cache
+C:\Users\osman.turan\Desktop\csvimport-master\tests\CsvImport.Host.IntegrationTests\obj\Debug\netcoreapp2.1\CsvImport.Host.IntegrationTests.csproj.CoreCompileInputs.cache
+C:\Users\osman.turan\Desktop\csvimport-master\tests\CsvImport.Host.IntegrationTests\obj\Debug\netcoreapp2.1\CsvImport.Host.IntegrationTests.AssemblyInfoInputs.cache
+C:\Users\osman.turan\Desktop\csvimport-master\tests\CsvImport.Host.IntegrationTests\obj\Debug\netcoreapp2.1\CsvImport.Host.IntegrationTests.AssemblyInfo.cs
+C:\Users\osman.turan\Desktop\csvimport-master\tests\CsvImport.Host.IntegrationTests\obj\Debug\netcoreapp2.1\CsvImport.Host.IntegrationTests.dll
+C:\Users\osman.turan\Desktop\csvimport-master\tests\CsvImport.Host.IntegrationTests\obj\Debug\netcoreapp2.1\CsvImport.Host.IntegrationTests.pdb
+C:\Users\deter\Desktop\excel import\csvimport-master\tests\CsvImport.Host.IntegrationTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\deter\Desktop\excel import\csvimport-master\tests\CsvImport.Host.IntegrationTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\deter\Desktop\excel import\csvimport-master\tests\CsvImport.Host.IntegrationTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\deter\Desktop\excel import\csvimport-master\tests\CsvImport.Host.IntegrationTests\bin\Debug\netcoreapp2.1\CsvImport.Host.IntegrationTests.deps.json
+C:\Users\deter\Desktop\excel import\csvimport-master\tests\CsvImport.Host.IntegrationTests\bin\Debug\netcoreapp2.1\CsvImport.Host.IntegrationTests.runtimeconfig.json
+C:\Users\deter\Desktop\excel import\csvimport-master\tests\CsvImport.Host.IntegrationTests\bin\Debug\netcoreapp2.1\CsvImport.Host.IntegrationTests.runtimeconfig.dev.json
+C:\Users\deter\Desktop\excel import\csvimport-master\tests\CsvImport.Host.IntegrationTests\bin\Debug\netcoreapp2.1\CsvImport.Host.IntegrationTests.dll
+C:\Users\deter\Desktop\excel import\csvimport-master\tests\CsvImport.Host.IntegrationTests\bin\Debug\netcoreapp2.1\CsvImport.Host.IntegrationTests.pdb
+C:\Users\deter\Desktop\excel import\csvimport-master\tests\CsvImport.Host.IntegrationTests\obj\Debug\netcoreapp2.1\CsvImport.Host.IntegrationTests.csprojAssemblyReference.cache
+C:\Users\deter\Desktop\excel import\csvimport-master\tests\CsvImport.Host.IntegrationTests\obj\Debug\netcoreapp2.1\CsvImport.Host.IntegrationTests.csproj.CoreCompileInputs.cache
+C:\Users\deter\Desktop\excel import\csvimport-master\tests\CsvImport.Host.IntegrationTests\obj\Debug\netcoreapp2.1\CsvImport.Host.IntegrationTests.AssemblyInfoInputs.cache
+C:\Users\deter\Desktop\excel import\csvimport-master\tests\CsvImport.Host.IntegrationTests\obj\Debug\netcoreapp2.1\CsvImport.Host.IntegrationTests.AssemblyInfo.cs
+C:\Users\deter\Desktop\excel import\csvimport-master\tests\CsvImport.Host.IntegrationTests\obj\Debug\netcoreapp2.1\CsvImport.Host.IntegrationTests.dll
+C:\Users\deter\Desktop\excel import\csvimport-master\tests\CsvImport.Host.IntegrationTests\obj\Debug\netcoreapp2.1\CsvImport.Host.IntegrationTests.pdb
